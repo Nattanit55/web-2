@@ -3,6 +3,10 @@
     transition: background-color 200ms linear;
 }
 
+.mr-auto, .mx-auto {
+    text-align: center;
+}
+
 
 .logo-nb {
     width: 4rem;
