@@ -1,0 +1,202 @@
+.fixed-top.scrolled {
+    background-color: white !important;
+    transition: background-color 200ms linear;
+}
+
+
+.logo-nb {
+    width: 4rem;
+    height: 4rem;
+}
+
+.text-bn {
+    text-align: center;
+    padding-top: 20rem;
+    font-size: 3rem;
+}
+
+.text-pbn {
+    padding-right: 5rem;
+    margin-left: 2.5rem;
+}
+
+.bt-bn {
+    margin-top: 2rem;
+    margin-left: 10rem;
+    text-align: center;
+    border-color: pink;
+    padding: 16px 32px;
+    transition-duration: 0.7s;
+    cursor: pointer;
+    display: inline-block;
+    font-weight: bold;
+}
+
+@media (min-width: 768px){
+.col-md-5 {
+    text-align: end;
+}}
+
+.bt-bn:hover {
+    background-color: pink;
+    color: white;
+    border-color: pink;
+}
+
+.bt-bn2 {
+    margin-left: 2rem;
+    text-align: center;
+    border-color: yellow;
+    padding: 16px 32px;
+    transition-duration: 0.7s;
+    cursor: pointer;
+    display: inline-block;
+    font-weight: bold;
+}
+
+.bt-bn2:hover {
+    background-color: palegoldenrod;
+    color: white;
+    border-color: palegoldenrod;
+}
+
+.card {
+    border: initial !important;
+    text-align: center;
+    padding-top: 3rem
+}
+
+.card-title {
+    font-weight: bold;
+}
+
+.sup-page-title {
+    text-align: center;
+    padding-top: 6rem
+}
+
+.bg-content {
+    background-color: #ffcb8a;
+    text-align: right;
+    padding-top: 2rem;
+    padding-bottom: 1rem;
+    margin-top: 2rem;
+}
+
+.bg-content2 {
+    background-color: #ffcb8a;
+    margin-top: 3rem;
+}
+
+.bg-content3{
+    text-align: center;
+}
+
+.img-content {
+    position: relative;
+    left: 3rem;
+}
+
+.text-top-card {
+    padding-top: 4rem;
+    margin-left: 6rem;
+}
+
+.text-top-card2 {
+    padding-top: 4rem;
+    margin-left: 6rem;
+    right: 7rem;
+}
+
+.card-content {
+    padding-top: 0.5rem;
+    padding-left: 6rem;
+}
+
+.card-content2 {
+    padding-top: 0.5rem;
+    padding-left: 6rem;
+    margin-right: 6rem;
+    right: 7rem;
+}
+
+.card-title-content {
+    font-weight: bold;
+}
+
+.card-text-content {
+    text-align: left;
+    padding-top: 1rem;
+}
+
+.bt-content {
+    text-align: center;
+    border-color: pink;
+    padding: 5px 30px;
+    margin: 25px 5px;
+    transition-duration: 0.7s;
+    cursor: pointer;
+    display: inline-block;
+    font-weight: bold;
+}
+
+.bt-content2 {
+    text-align: center;
+    border-color: rgb(250, 248, 152);
+    padding: 5px 30px;
+    margin: 25px 5px;
+    transition-duration: 0.7s;
+    cursor: pointer;
+    display: inline-block;
+    font-weight: bold;
+}
+
+.img-content2 {
+    position: relative;
+    padding-top: 2rem;
+    padding-bottom: 1rem;
+    right: 3rem;
+}
+
+.carousel.slide {
+    top: 5rem;
+    width: 100%;
+}
+
+.text-content-footer {
+    font-size: 4rem;
+    text-align: center;
+    margin-top: 11rem;
+}
+
+.text-topic-footer {
+    margin-top: 3rem;
+    text-align: center;
+}
+
+.text-content {
+    margin-left: 5rem;
+    text-align: center;
+}
+
+.logo {
+    font-size: 2rem;
+    text-align: center
+}
+
+.fa {
+    margin-right: 3rem;
+    margin-top: 2rem;
+}
+
+.carousel-control-next-icon {
+    padding: 1.5rem;
+}
+
+.carousel-control-prev-icon {
+    padding: 1.5rem;
+}
+.nav{
+    justify-content: center;
+    margin-top: 3rem;
+}
